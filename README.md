@@ -195,3 +195,78 @@ Road-Safety-Analytics/
 │
 └── screenshots/
     └── dashboard.png
+
+---
+
+# ▶️ How to Run Streamlit Dashboard
+
+## Step 1 — Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+## Step 2 — Run Streamlit App
+
+```bash
+streamlit run streamlit_app.py
+```
+
+---
+
+# 📦 Requirements
+
+```txt
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+joblib
+imbalanced-learn
+seaborn
+```
+
+---
+
+# 🔮 Future Improvements
+
+Possible future enhancements for this project include:
+
+- Real-time accident data integration
+- Live Streamlit cloud deployment
+- GPS-based accident map visualization
+- Deep Learning model implementation
+- Real-time traffic and weather API integration
+- Mobile-responsive dashboard design
+- Automated alert system for high-risk conditions
+- Advanced predictive analytics with larger datasets
+- Cloud database integration
+- User authentication and admin panel
+
+---
+
+# 👨‍💻 Author
+
+## Mirali Unagar
+
+Passionate about:
+- Data Analytics
+- Machine Learning
+- Dashboard Development
+- Business Intelligence
+
+---
+
+# ⭐ Project Highlights
+
+✔ End-to-End Machine Learning Project  
+✔ Interactive Streamlit Dashboard  
+✔ Professional Power BI Dashboard  
+✔ Accident Severity Prediction System  
+✔ Safety Recommendation Generation  
+✔ Data Cleaning & Preprocessing  
+✔ Real-World Business Use Case  
+✔ Interactive KPI & Risk Analysis  
+✔ Portfolio & Placement Ready Project  
+✔ Business Intelligence & Analytics Focused  
