@@ -176,7 +176,7 @@ by identifying:
 # 📷 Dashboard Preview
 
 ## Power BI Dashboard
-![Dashboard](Dashboard2.png)
+![Dashboard](C:/Users/dell/Pictures/Saved Pictures/IMP/Accident/Dashboard2.png)
 
 ---
 
