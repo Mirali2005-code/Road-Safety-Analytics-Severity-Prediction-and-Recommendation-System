@@ -92,7 +92,7 @@ Example recommendations:
 | Joblib | Model Saving/Loading |
 
 ---
-
+Note: A sample dataset is included in this repository for demonstration purposes.
 # 📊 Machine Learning Workflow
 
 ## 1️⃣ Data Cleaning
